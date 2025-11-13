@@ -16,3 +16,5 @@ This project is a static, visual clone of the Amazon e-commerce homepage, built 
 * **Font Awesome:** For icons used in the navigation bar and buttons.
 
 ## 📸 Preview
+![Project Preview](Images/preview_1.png)
+![Project Preview](Images/preview_2.png)
